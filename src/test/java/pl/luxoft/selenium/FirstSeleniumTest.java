@@ -15,7 +15,7 @@ import javax.naming.directory.SearchResult;
 
 public class FirstSeleniumTest extends ParentTestSelenium {
 
-    public void acceptPrivacyPolicy() {
+   /* public void acceptPrivacyPolicy() {
         final By PRIVACY_MODAL_WINDOW_WRAPPER = By.className("alert");
         //  final By PRIVACY_ACCEPT_BUTTON = By.cssSelector ("button.width-full");
         driver.get("http://www.etsy.com");
@@ -25,7 +25,7 @@ public class FirstSeleniumTest extends ParentTestSelenium {
         //    driver.findElement(By.className("etsy-icon-cart")).click();
         //    Assert.assertTrue(driver.getTitle().contains("Cart"));
 
-    }
+    }*/
 
   /*  @Test
     public void searchResultsPageTitleContainSearchedText() throws InterruptedException {

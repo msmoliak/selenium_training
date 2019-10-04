@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pl.luxoft.selenium.FirstSeleniumTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.823 s - in pl.luxoft.selenium.FirstSeleniumTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.523 s - in pl.luxoft.selenium.FirstSeleniumTest

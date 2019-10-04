@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-10-04T14:29:15Z" name="Surefire suite" finished-at="2019-10-04T14:29:26Z" duration-ms="11261">
+  <suite started-at="2019-10-04T14:37:49Z" name="Surefire suite" finished-at="2019-10-04T14:38:00Z" duration-ms="10993">
     <groups>
     </groups>
-    <test started-at="2019-10-04T14:29:15Z" name="Surefire test" finished-at="2019-10-04T14:29:26Z" duration-ms="11261">
+    <test started-at="2019-10-04T14:37:49Z" name="Surefire test" finished-at="2019-10-04T14:38:00Z" duration-ms="10993">
       <class name="pl.luxoft.selenium.FirstSeleniumTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@1d119efb]" started-at="2019-10-04T14:29:15Z" name="setUp" finished-at="2019-10-04T14:29:17Z" duration-ms="2728" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@6fe7aac8]" started-at="2019-10-04T14:37:49Z" name="setUp" finished-at="2019-10-04T14:37:52Z" duration-ms="2734" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchResultsPageTableHeaderContainSearchQueryPOTest()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@1d119efb]" started-at="2019-10-04T14:29:17Z" name="searchResultsPageTableHeaderContainSearchQueryPOTest" finished-at="2019-10-04T14:29:25Z" duration-ms="7788" status="PASS">
+        <test-method signature="searchResultsPageTableHeaderContainSearchQueryPOTest()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@6fe7aac8]" started-at="2019-10-04T14:37:52Z" name="searchResultsPageTableHeaderContainSearchQueryPOTest" finished-at="2019-10-04T14:37:59Z" duration-ms="7508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchResultsPageTableHeaderContainSearchQueryPOTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@1d119efb]" started-at="2019-10-04T14:29:25Z" name="tearDown" finished-at="2019-10-04T14:29:26Z" duration-ms="730" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pl.luxoft.selenium.FirstSeleniumTest@6fe7aac8]" started-at="2019-10-04T14:37:59Z" name="tearDown" finished-at="2019-10-04T14:38:00Z" duration-ms="710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
